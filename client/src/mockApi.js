@@ -23,7 +23,7 @@ function buildSeatMap() {
 const mockDb = {
   user: {
     id: "usr_101",
-    name: "Aarav Mehta",
+    name: "MD HUMER ALI",
     tier: "Platinum",
     preferences: {
       seat: "12A",
